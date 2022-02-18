@@ -94,6 +94,11 @@
     justify-content: center;
     gap: 16px;
     flex-wrap: wrap;
+    gap: 50px;
+  }
+
+  .info {
+    max-width: 200px;
   }
   
   .text {
@@ -169,4 +174,14 @@
    background-color: #1F2937;
   color: #F9FAF8;
   padding: 32px;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+#cat-image {
+  width: 300px;
+  height: auto;
 }
